@@ -22,4 +22,5 @@ public class Pedido {
     private String fPago;
     @Column(nullable = false)
     private double importe;
+
 }
